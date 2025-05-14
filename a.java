@@ -13,5 +13,9 @@ public class Account {
 
   public void setRate(double intRate) {
   }
+  public void getRate(double intRate){
+    int a;
+    
+  }
 
 }
